@@ -1,0 +1,28 @@
+Small change like in UI:
+like when i select my turn then automatically the part of the things goes down. then comes up:
+ALso it have removed the ehchangement like this features what was required.
+Add this pointers as well:
+Chess Web UI it can taking move with input valies and by normall clicking alsi i mean keep two option open. the clicking one is working fine with this new.Text-input based move (e.g., e2e4)
+
+AI move response
+
+♻ Reset button
+
+✅ NLP move explanation
+
+🧠 Checkmate / Stalemate Detection
+
+♟ Legal move check
+
+If You Want To Add Anything Next in Chess:
+Here’s what I’d suggest in priority order:
+
+🔸 NLP-based move explanation (nlp/move_explainer.py)
+
+🔸 Restart/Reset Button in Tkinter UI
+
+🔸 Show legal moves on board after clicking a piece
+
+🔸 Add checkmate/stalemate detection
+
+step by step with proper implemation and explaintion and how to run.

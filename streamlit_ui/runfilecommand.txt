@@ -1,0 +1,4 @@
+streamlit run gamegenius_ai/streamlit_ui/chess_web.py
+
+streamlit run streamlit_ui/tictactoe_web.py
+
